@@ -1,0 +1,13 @@
+Norwich terrier,Dixie,2,https://www.soidog.org/sites/default/files/Sliders_Mobile_Cola.jpg,1
+Rhodesian ridgeback,Remi,33,http://www.readersdigest.ca/wp-content/uploads/2012/09/komondor-strangest-looking-dog-breeds.jpg,1
+borzoi,Winnie,3,https://vetstreet.brightspotcdn.com/dims4/default/cc1c07c/2147483647/crop/0x0%2B0%2B0/resize/180x180/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F45%2Fa06040b3ac11e092fe0050568d634f%2Ffile%2Fhub-dogs-adult.jpg,1
+Airedale terrier,Milo,23,http://cdn.akc.org/content/article-body-image/housetrain_adult_dog_hero.jpg,1
+border terrier,Lucky,30,http://i0.kym-cdn.com/entries/icons/original/000/000/027/advicedog.jpg,1
+English cocker spaniel,Jake,23,https://i.amz.mshcdn.com/2xXpy52DS30uKJBrQm-qI1JDAbc=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F454852%2Fc149fd02-3174-46f9-9b58-d7026cc5ada9.jpg,1
+Shetland sheepdog,Tank,32,https://www.sddac.com/content/dam/sdc/das/images/aussie-shepherd.jpg,1
+keeshond,Oliver,4,https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg,1
+Norwich terrier,Pepper,14,https://www.aspca.org/sites/default/files/dog-care_dog-bite-prevention_thumb.jpg,1
+German wirehaired pointer,Luke,15,http://www.hedinghamhounds.co.uk/wp-content/uploads/2016/02/animal-dog-pet-bulldog.jpg,1
+saluki,King,19,https://assets3.thrillist.com/v1/image/2724237/size/tmg-article_tall;jpeg_quality=20.jpg,1
+keeshond,Peanut,9,https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2018/04/spencer-marathon-dog-1.jpg,1
+dachshund,Rex,34,https://dogshome.com/wp-content/uploads/animalimages//1042080/8ecc64fb425941ba88ed86a847c59b13-1519257095-1519257099_srch.jpg,1
